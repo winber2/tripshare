@@ -1,0 +1,12 @@
+{
+  "plugins": ["react", "react-native"],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "env": {
+    "react-native/react-native": true
+  }
+}
